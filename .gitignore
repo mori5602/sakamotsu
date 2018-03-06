@@ -1,0 +1,14 @@
+dataset/*
+dataset/01_downloadPict/*
+dataset/02_resizePict/*
+dataset/03_duplicatePict/*
+dataset/04_samplePict/*
+result/*
+!dataset/01_downloadPict/
+!dataset/02_resizePict/
+!dataset/03_duplicatePict/
+!dataset/04_samplePict/
+!result/
+!.gitkeep
+.python-version
+.ipynb_checkpoints

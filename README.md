@@ -1,6 +1,9 @@
 # sakamotsuリコメンド
 ---
 
+## プレゼン資料
+[第一回人工知能勉強会](https://gitpitch.com/mori5602/sakamotsu)
+
 1〜4, 6はjupyter notebookを使います。
 
 ## [1. 画像取得](https://github.com/mori5602/sakamotsu/blob/master/01_downloadPictureFromYahoo.ipynb)

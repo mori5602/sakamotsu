@@ -12,3 +12,4 @@ result/*
 !.gitkeep
 .python-version
 .ipynb_checkpoints
+README.ipynb
